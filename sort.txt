@@ -1,0 +1,2 @@
+# By default ruby calls quick sort
+p [23,1,4,52,4,5,9].sort
